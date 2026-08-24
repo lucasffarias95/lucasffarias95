@@ -1,109 +1,72 @@
 # 👋 Olá, eu sou Lucas de Freitas Farias
 
-💻 Desenvolvedor Back-end Júnior  
-🚀 Foco em **C# | .NET | ASP.NET Core | APIs REST**  
-📍 Fortaleza – CE, Brasil  
+💻 Desenvolvedor Back-end C# / .NET
 
-Sou desenvolvedor back-end em formação, com experiência prática em suporte a sistemas e desenvolvimento de aplicações utilizando C# e .NET. Possuo base sólida em lógica de programação, orientação a objetos e versionamento de código com Git/GitHub.
+🚀 Foco em **C# | .NET | EF Core | SQL Server | Docker**
 
-Atualmente busco oportunidade de **estágio ou posição júnior em Back-end**, onde eu possa evoluir tecnicamente, aprender boas práticas de arquitetura e contribuir com soluções escaláveis.
+📍 Fortaleza – CE, Brasil
+
+Desenvolvedor Back-end com foco no ecossistema **C#** e **.NET**, recém-formado em Análise e Desenvolvimento de Sistemas. Possuo sólida experiência prática no desenvolvimento de aplicações com **Entity Framework Core (Code-First, Migrations, LINQ)**, persistência de dados relacional e orquestração de ambientes com **Docker** e **SQL Server**.
+
+Minha trajetória inclui experiência como Analista de Suporte no mercado corporativo, atuando na investigação de incidentes técnicos, análise de logs de aplicação, validação de correções de software e cooperação próxima com times de engenharia para redução de MTTR.
+
+Busco oportunidade como **Desenvolvedor .NET / C# Júnior**, com foco em aplicar conceitos de Programação Orientada a Objetos (POO), Clean Architecture e SOLID para construir código limpo, testável e escalável.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Linguagens & Frameworks
 
-### Frameworks & Plataformas
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Bancos de Dados & Containers
 
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### Ferramentas & Práticas
 
 ---
 
 ## 📌 Projetos em Destaque
 
-### 🔹 Calculadora Console em C#
-📂 Repositório: `Calculadora-console-csharp`
+### 🔹 DropSurf – Sistema de Gestão de Aulas
 
-Aplicação de console desenvolvida para praticar fundamentos da linguagem C# e lógica de programação.
+📂 Repositório: `DropSurf`
 
-**Conceitos aplicados:**
-- Estruturas condicionais (`switch/case`)
-- Estruturas de repetição (`while`)
-- Tipos numéricos (`double`)
-- Entrada e saída via console
-- Versionamento com Git e GitHub
+Aplicação de persistência de dados em **C# / .NET** utilizando a abordagem **Code-First** com **Entity Framework Core**.
 
-👉 https://github.com/lucasfarias95/Calculadora-console-csharp
+**Destaques técnicos:**
 
----
+* Mapeamento de entidades de domínio (`Aluno`, `Professor`, `Aula`) e versionamento de schema via **EF Migrations**.
+* Containerização e orquestração do **SQL Server 2022** utilizando **Docker**.
+* Implementação de **CRUD** completo, explorando *Change Tracking* do EF Core e consultas otimizadas com **LINQ** (`ToList`, `FirstOrDefault`, `Find`).
+* Validações de ambiente executadas via **Azure Data Studio**.
 
-### 🔹 Gerenciador de Estoque em C#
-📂 Repositório: `GerenciadorEstoqueCS`
-
-Sistema de gerenciamento de estoque desenvolvido em C# (Console Application).
-
-**Funcionalidades:**
-- Cadastro de produtos
-- Controle de entrada e saída
-- Geração de relatórios simples
-- Organização lógica do código
-
-👉 https://github.com/lucasfarias95/GerenciadorEstoqueCS
+👉 [Acessar repositório do DropSurf](https://github.com/lucasfarias95)
 
 ---
 
 ### 🔹 Farmácia Dose Certa
+
 📂 Repositório: `FarmaciaDoseCerta`
 
-Projeto voltado para estudo e prática de organização de código e lógica aplicada a um contexto real.
+Aplicação em **C# / .NET** focada na implementação de regras de negócio, controle de estoque e gerenciamento de medicamentos.
 
-👉 https://github.com/lucasfarias95/FarmaciaDoseCerta
+**Destaques técnicos:**
 
----
+* Aplicação prática de **Programação Orientada a Objetos (POO)** para encapsular regras de domínio (cálculo de doses e alertas de estoque baixo).
+* Persistência de dados local em **JSON** através da biblioteca `System.Text.Json`.
+* Tratamento estruturado de exceções (`try/catch`) e validações rígidas de entrada no sistema.
 
-### 🔹 API de Pagamentos (Node.js)
-📂 Repositório: `api-pagamentos`
-
-Projeto desenvolvido para estudo de APIs utilizando **Node.js**, com foco em rotas, requisições HTTP e estrutura de back-end.
-
-👉 https://github.com/lucasfarias95/api-pagamentos
+👉 [Acessar repositório da Farmácia Dose Certa](https://github.com/lucasfarias95/FarmaciaDoseCerta)
 
 ---
 
-### 🔹 Classificador de Emails (Python)
-📂 Repositório: `email-classifier`
+## 🎓 Formação & Certificações
 
-Projeto em Python para prática da linguagem, lógica e conceitos básicos de processamento de dados.
-
-👉 https://github.com/lucasfarias95/email-classifier
-
----
-
-## 🎓 Formação
-🎓 Graduação em andamento – **UNINASSAU** (2023 – 2026)
+* 🎓 **Graduação em Análise e Desenvolvimento de Sistemas** – UNINASSAU (Concluído)
+* 📜 **Formação Desenvolvedor .NET / C#** – Balta.io
+* 📜 **CC50: Introdução à Ciência da Computação** – Harvard / Fundação Estudar
 
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfarias-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lucasfarias95)
 
 📧 **Email:** lucasffarias95@gmail.com
-
----
-
-⭐ Em constante aprendizado e evolução no desenvolvimento back-end.
