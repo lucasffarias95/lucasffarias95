@@ -4,11 +4,11 @@
 🚀 Foco em **C# | .NET | ASP.NET Core | APIs REST**  
 📍 Fortaleza – CE, Brasil  
 
-Desenvolvedor Back-end com foco no ecossistema C# e .NET, recém-formado em Análise e Desenvolvimento de Sistemas. Possuo sólida base em desenvolvimento de APIs REST, modelagem de bancos de dados relacionais e aplicação de conceitos de Programação Orientada a Objetos (POO).
+Desenvolvedor Back-end com foco no ecossistema C# e .NET, graduado em Análise e Desenvolvimento de Sistemas. Possuo sólida base em desenvolvimento de APIs REST, modelagem de bancos de dados relacionais e aplicação de conceitos de Programação Orientada a Objetos (POO).
 
 Minha trajetória inclui experiência prévia como Analista de Suporte, atuando diretamente na investigação e resolução de incidentes, análise de logs, validação de correções de software e cooperação próxima com equipes de engenharia.
 
-Trabalho com tecnologias e ferramentas como C#, .NET, ASP.NET Core, Entity Framework Core (EF Core), LINQ, SQL Server, MySQL, Docker, Git, GitHub, Azure Data Studio, Postman e Linux, aplicando boas práticas de desenvolvimento (Clean Architecture, SOLID, Injeção de Dependência) e conceitos do ciclo de vida de software (SDLC).
+Trabalho com tecnologias e ferramentas como C#, .NET, ASP.NET Core, Entity Framework Core (EF Core), LINQ, SQL Server, MySQL, Docker, Git, GitHub, Postman e Linux, aplicando boas práticas de desenvolvimento (Clean Architecture, SOLID, Injeção de Dependência) e conceitos do ciclo de vida de software (SDLC).
 
 Busco oportunidade como Desenvolvedor .NET / C# Júnior, onde possa continuar evoluindo tecnicamente, escrever código limpo e escalável, e gerar valor real para o negócio.
 
@@ -40,21 +40,6 @@ Busco oportunidade como Desenvolvedor .NET / C# Júnior, onde possa continuar ev
 
 ## 📌 Projetos em Destaque
 
-### 🔹 DropSurf – Sistema de Gestão de Aulas
-📂 Repositório: `DropSurf`
-
-Aplicação de persistência de dados em C# / .NET utilizando a abordagem Code-First com Entity Framework Core.
-
-**Funcionalidades & Conceitos:**
-- Mapeamento de entidades de domínio (Aluno, Professor, Aula) e gerenciamento de versionamento via EF Migrations
-- Containerização e orquestração do SQL Server 2022 utilizando Docker
-- Testes e validações de ambiente via Azure Data Studio
-- Implementação de CRUD completo, explorando Change Tracking do EF Core e consultas com LINQ (`ToList`, `FirstOrDefault`, `Find`)
-
-👉 https://github.com/lucasfarias95
-
----
-
 ### 🔹 Farmácia Dose Certa
 📂 Repositório: `FarmaciaDoseCerta`
 
@@ -65,7 +50,21 @@ Aplicação em C# / .NET focada em lógica de negócios, controle de estoque e g
 - Persistência de dados local em formato JSON utilizando a biblioteca `System.Text.Json` para leitura e escrita de arquivos
 - Estabilidade da aplicação com tratamento de exceções (`try/catch`) e validações rígidas de entrada no terminal
 
-👉 https://github.com/lucasfarias95/FarmaciaDoseCerta
+👉 https://github.com/lucasffarias95/FarmaciaDoseCerta
+
+---
+
+### 🔹 Gerenciador de Estoque C#
+📂 Repositório: `GerenciadorEstoqueCS`
+
+Sistema de Gerenciamento de Estoque desenvolvido em C# / .NET focado no controle patrimonial e fluxos operacionais.
+
+**Funcionalidades & Conceitos:**
+- Cadastro estruturado de produtos e controle de movimentações de entrada e saída
+- Geração de relatórios patrimoniais e consolidação de dados em memória
+- Organização modular aplicando princípios de Programação Orientada a Objetos e separação de responsabilidades
+
+👉 https://github.com/lucasffarias95/GerenciadorEstoqueCS
 
 ---
 
@@ -76,7 +75,7 @@ Aplicação em C# / .NET focada em lógica de negócios, controle de estoque e g
 
 ## 📫 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasfarias-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lucasfarias95)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lucasffarias95)
 
 📧 **Email:** lucasffarias95@gmail.com
 
